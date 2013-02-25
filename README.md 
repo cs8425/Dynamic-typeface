@@ -1,8 +1,0 @@
-Dynamic-typeface
-================
-
-Dynamic generate font data for typeface.js to load.
-Reduce size of Chinese fonts.
-Only load the needed one.
-
-

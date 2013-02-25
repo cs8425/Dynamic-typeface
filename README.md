@@ -7,9 +7,9 @@ Only load the needed one.
 
 files
 --------
-app.js => insert typeface.js's data to MySQL
-webfont.sql => DB structure in MySQL
-getfont.php => Dynamic generate font data
+* app.js => insert typeface.js's data to MySQL
+* webfont.sql => DB structure in MySQL
+* getfont.php => Dynamic generate font data
 
 Usege
 -------

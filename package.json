@@ -1,0 +1,12 @@
+{
+  "name": "webfont",
+  "version": "0.0.1",
+  "description": "Dynamic generate font data for typeface.js to load.",
+  "main": "app.js",
+  "dependencies": {
+    "mysql": "~2.0.0-alpha7"
+  },
+  "repository": "",
+  "author": "cs8425",
+  "license": "BSD"
+}
